@@ -1,6 +1,3 @@
-Certainly! Below is a Markdown formatted README for your Reflecto app with the requested changes.
-
-```markdown
 # 🧠 Reflecto 🧠
 An AI-powered journaling app that uses the OpenAI API. Dive deep into introspection with the help of a chatbot. Explore the app [here](http://aws-amplify-dummy-link.com).
 
@@ -48,6 +45,3 @@ Adherence to the terms and regulations of the OpenAI API is a must.
 
 ## 🤝 Contribution <a name="contribution"></a>
 Interested in making Reflecto even better? Fork the project and dive in! Just remember to credit me in your contributions.
-```
-
-Just like before, you can copy and paste this Markdown code into your README.md file, and it will render as requested. And, of course, remember to replace the dummy link with the actual AWS Amplify link when you have it.
