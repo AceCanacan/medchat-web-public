@@ -1,6 +1,6 @@
 # 🩺 MedChat 🩺
 
-_An AI-powered app designed to enhance doctor-patient relationships. MedChat facilitates in-depth patient information gathering through an interactive chatbot._ Explore the app [here]([https://main.d3qgryei7cl7ti.amplifyapp.com])).
+_An AI-powered app designed to enhance doctor-patient relationships. MedChat facilitates in-depth patient information gathering through an interactive chatbot._ Explore the app here https://main.d3qgryei7cl7ti.amplifyapp.com
 
 <img width="1000" alt="Screen Shot 2023-09-28 at 4 09 24 PM" src="https://github.com/AceCanacan/medchat-web-public/assets/110709199/785b1bf9-ad4f-479f-a259-4099e1e49c17">
 <img width="1000" alt="Screen Shot 2023-09-28 at 4 09 50 PM" src="https://github.com/AceCanacan/medchat-web-public/assets/110709199/ea8205c4-f5da-44d9-9bbb-97bdb5dc65ab">
