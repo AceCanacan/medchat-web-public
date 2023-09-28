@@ -1,0 +1,87 @@
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This will make the container take up the full height of the viewport */
+  }
+  
+  /* Input Container Styles */
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  
+  /* Label Styling */
+  .label {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  /* Input Box Styling */
+  .inputBox {
+    width: 300px;
+    height: 50px;
+    border-radius: 20px; /* Adjust this as needed */
+    border: 1px solid #ccc; 
+    padding: 10px;
+    resize: none;
+  }
+  
+  /* Button Container Styling */
+  .button-centered-container {
+    margin-top: 20px;
+  }
+  
+  /* Custom Button Styling */
+  .buttonContainer {
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px; /* Rounded Corners */
+  }
+  
+  /* Submit Button Styling */
+  .submit-button-input {
+    background-color: #419197; /* For instance, Green */
+    border: none;
+    color: white;
+    height: 50px;
+    width: 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 1000;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px; /* Rounded border */
+    transition: background-color 0.3s;
+    font-family:  Helvetica, sans-serif;
+}
+  
+  /* Submit Button Hover Styling */
+  .submit-button-input:hover {
+    background-color: #78D6C6; /* Darker green */
+  }
+  
+
+
+  .textarea-wrapper {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0px 4px 6px 0px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    height: 500px;
+    border-radius: 40px; /* Apply border-radius to the inner content */
+    /* Border styling */
+    border: 20px solid #419197;
+    overflow: visible;
+}

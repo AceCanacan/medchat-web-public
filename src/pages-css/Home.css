@@ -1,0 +1,66 @@
+/* Main container styling */
+.home-container {
+    background-color: #419197; /* Replace with the actual color you want */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    min-width: 100vw;
+    padding: 0;
+  }
+
+/* Styling for button container */
+.button-container {
+    display: flex;
+    gap: 10px; /* Adjust the gap between buttons */
+  }
+  
+/* Styling for both buttons */
+.button {
+    background-color: #EEEEEE; /* For instance, Green */
+    border: none;
+    color: #176B87;
+    height: 50px;
+    width: 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 1000;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px; /* Rounded border */
+    transition: background-color 0.3s;
+    font-family:  Helvetica, sans-serif;
+}
+
+/* Styling for button hover state */
+.button:hover {
+    background-color: #78D6C6; /* Darker green */
+}
+
+.icon {
+    height: 400px;
+    width: 400px;
+}
+
+.home-container {
+    text-align: center;
+}
+
+.large-text {
+    font-size: 50px; /* Adjust the font size as needed */
+    font-weight: bold;
+    color: white;
+    font-family:  Helvetica, sans-serif;
+    margin: 10px 0; /* Add margin to adjust the gap */
+}
+
+.small-text {
+    font-size: 20px; /* Adjust the font size as needed */
+    font-weight: lighter;
+    color: white;
+    font-family:  Helvetica, sans-serif;
+    margin: 10px 0; /* Add margin to adjust the gap */
+}
